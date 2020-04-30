@@ -1,0 +1,22 @@
+node_modules
+.expo
+.expo-shared
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+config
+app.json
+src/components/SongListItem.js
+src/screens/AdminScreen.js
+src/screens/DashboardScreen.js
+src/screens/GuestScreen.js
